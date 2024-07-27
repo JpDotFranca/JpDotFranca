@@ -1,16 +1,13 @@
-## Hi there 👋
+<img align="center" height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm83ajdpMTU2emswM2U2ZmJ5bjl0c2FxZ2xnd3hncWlnZGs0d2d2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QB9rcSDaqJKz3Qa6AG/giphy.gif"/>
 
-<!--
-**JpDotFranca/JpDotFranca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```diff
+Hi, I'm João Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+@@I'm a software engineer@@
++ Living in Porto Alegre, Brazil 🇧🇷.
+- 30 years old
+! .NET Developer | Azure Cloud | Github Action | Docker | Software Architecture | Problem Solver | Sometimes singer
+```
+
+####  *[jpdotfranca.dev]([https://anabastos.dev](https://jpdotfranca.github.io/))* 
