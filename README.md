@@ -6,8 +6,8 @@ Hi, I'm João Paulo.
 
 I'm a software engineer
 ⚡ Living in Porto Alegre, Brazil 🇧🇷.
-⚡ 30 years old
-⚡ .NET Developer | Azure Cloud | Github Action | Software Architecture | 
+⚡ 31 years old
+⚡ .NET Developer | Angular | Azure Cloud | Github Action | Software Architecture | 
 ```
 
 @*[jpdotfranca]([https://anabastos.dev](https://jpdotfranca.github.io/))* 
